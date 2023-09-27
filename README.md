@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **agustinruiz01@me.com**
 
-- ⚡ Fun fact **I think I am funny 😅**
+- 🤘🏿 My favorite band is **Slipknot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,6 @@
 
 <p><img style="height: 175px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&locale=en&layout=compact" alt="GoldenDrk" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&locale=en" alt="GoldenDrk" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&locale=en" alt="GoldenDrk" /></p>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk" alt="GoldenDrk" /></p>
