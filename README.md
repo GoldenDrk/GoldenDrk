@@ -30,8 +30,8 @@
 
 <h3>GitHub interesting stats:</h3>
 
-<div display="flex" flex-direction="row"><p><img style="height: 175px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&locale=en&layout=compact" alt="GoldenDrk" /></p>
+<p><img style="height: 195px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&locale=en&layout=compact" alt="GoldenDrk" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&locale=en" alt="GoldenDrk" /></p></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&locale=en" alt="GoldenDrk" /></p>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk" alt="GoldenDrk" /></p>
