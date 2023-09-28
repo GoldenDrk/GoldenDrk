@@ -36,8 +36,8 @@
 
 <h3>GitHub interesting stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&theme=dark&locale=en&layout=compact" alt="GoldenDrk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&theme=dark&locale=en&layout=compact" alt="GoldenDrk" height="170px"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&theme=dark&locale=en" alt="GoldenDrk" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk&theme=dark&" alt="GoldenDrk" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk&theme=dark&" alt="GoldenDrk" /></p>
