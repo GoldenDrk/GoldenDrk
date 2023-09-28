@@ -6,7 +6,11 @@
 <h1 align="center">Hi 👋🏿, I'm Agustín Ruiz</h1>
 <h3 align="center">Where music and coding collide</h3>
 
-![Preview](https://tthn0.vercel.app/api?rainbow=true&theme=dark&spin=true)
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://spotify-readme-seven-ochre.vercel.app/api?rainbow=true&theme=dark&spin=true" alt="Current Spotify Song">
+  </a>
+</div>
 
 <img align="right" alt="coding" widht="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl3eXczeTFuZTNuMXRyZDVneHVmdzBoM29kOGc2NzU4ZTV3emtxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
