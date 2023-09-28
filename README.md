@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋🏿, I'm Agustín Ruiz</h1>
 <h3 align="center">Where music and coding collide</h3>
 
+![Preview](https://tthn0.vercel.app/api?rainbow=true&theme=dark&spin=true)
+
 <img align="right" alt="coding" widht="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl3eXczeTFuZTNuMXRyZDVneHVmdzBoM29kOGc2NzU4ZTV3emtxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GoldenDrk&label=Profile%20views&color=0e75b6&style=flat" alt="GoldenDrk" /> </p>
@@ -30,8 +32,8 @@
 
 <h3>GitHub interesting stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&locale=en&layout=compact" alt="GoldenDrk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenDrk&show_icons=true&theme=dark&locale=en&layout=compact" alt="GoldenDrk" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&locale=en" alt="GoldenDrk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoldenDrk&show_icons=true&theme=dark&locale=en" alt="GoldenDrk" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk" alt="GoldenDrk" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=goldendrk&theme=dark&" alt="GoldenDrk" /></p>
