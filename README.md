@@ -7,7 +7,7 @@
 <h3 align="center">Where music and coding collide</h3>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/h1coyaqxqk53nwm24jaq4jfr7" target"_blank">
+  <a href="https://open.spotify.com/user/h1coyaqxqk53nwm24jaq4jfr7" target="_blank">
     <img src="https://spotify-readme-seven-ochre.vercel.app/api?rainbow=true&theme=dark&spin=true&scan=true" alt="Current Spotify Song">
   </a>
 </div>
