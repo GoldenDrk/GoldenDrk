@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GoldenDrk&label=Profile%20views&color=0e75b6&style=flat" alt="GoldenDrk" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GoldenDrk/GoldenDrk](https://github.com/GoldenDrk/GoldenDrk)
 
